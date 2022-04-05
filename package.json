@@ -9,6 +9,10 @@
   "author": "rais helmy",
   "license": "MIT",
   "dependencies": {
-    "node-rtsp-stream": "^0.0.9"
+    "bufferutil": "^4.0.6",
+    "express": "^4.17.3",
+    "node-rtsp-stream": "^0.0.9",
+    "utf-8-validate": "^5.0.9",
+    "ws": "^8.5.0"
   }
 }
